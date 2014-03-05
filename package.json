@@ -1,0 +1,23 @@
+{
+  "name": "midi-comon",
+  "version": "0.0.1",
+  "description": "Some common midi data constants",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jdachtera/midi-common.git"
+  },
+  "keywords": [
+    "midi",
+    "music"
+  ],
+  "author": "Jascha Dachtera",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jdachtera/midi-common/issues"
+  },
+  "homepage": "https://github.com/jdachtera/midi-common"
+}
