@@ -1,6 +1,6 @@
 {
   "name": "midi-common",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Some common midi data constants",
   "main": "index.js",
   "scripts": {
