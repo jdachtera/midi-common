@@ -2,7 +2,7 @@ exports.commands = {
   // # Channel Messages
 
   // ## Note Off
-  0x80: { "dataLength":  1, "name": "noteOff" },
+  0x80: { "dataLength":  2, "name": "noteOff" },
 
   // ## Note On
   0x90: { "dataLength": 2, "name": "noteOn" },
@@ -215,7 +215,7 @@ exports.systemExclusive = {
     name: 'Universal Realtime System Exclusive'
   },
 
-  // Extended ids
+  // Extended ids as strings
   '000066': 'Mackie',
   '000074': 'Ta Horng Musical Instrument',
   '000075': 'e-Tek Labs (Forte Tech)',
